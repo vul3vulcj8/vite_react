@@ -11,6 +11,7 @@ function App() {
     <>
       <TitleComponent />
       <Card></Card>
+      <Card></Card>
       <h1>咪咪貓貓</h1>
       <div className="card">
         <button onClick={() => setCount1((count1) => count1 + 1)}>
